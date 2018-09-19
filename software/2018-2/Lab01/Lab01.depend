@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1535131286 source:/home/dmontalvo/Fuentes/FISI/Lab01/main.cpp
+	<iostream>
+
+1536315897 source:/home/dmontalvo/Clases/UNMSM/Ingenieria de Sistemas/2018-2/Algoritmica I/Lab01/main.cpp
+	<iostream>
+
+1536316012 source:/home/dmontalvo/Clases/UNMSM/Ingenieria de Sistemas/2018-2/Algoritmica I/Lab01/yearCentury.cpp
+	<iostream>
+
+1536316012 source:/home/dmontalvo/Clases/UNMSM/Ingenieria de Software/2018-2/Algoritmica I/Lab01/yearCentury.cpp
+	<iostream>
+
+1536782673 source:/home/dmontalvo/Clases/UNMSM/Ingenieria de Software/2018-2/Algoritmica I/Lab01/catyear.cpp
+	<iostream>
+
+1537083212 source:/home/dmontalvo/Clases/UNMSM/Ingenieria de Software/2018-2/Algoritmica I/Laboratorio/Lab01/catyear.cpp
+	<iostream>
+
+1537083220 source:/home/dmontalvo/Clases/UNMSM/Ingenieria de Software/2018-2/Algoritmica I/Laboratorio/Lab01/yearCentury.cpp
+	<iostream>
+
+1537083255 source:/home/dmontalvo/Clases/UNMSM/Ingenieria de Software/2018-2/Algoritmica I/Laboratorio/Lab01/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

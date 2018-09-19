@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1536940342 source:/home/dmontalvo/Clases/UNMSM/Ingenieria de Software/2018-2/Algoritmica I/Lab03/Laboratorio03/main.cpp
+	<iostream>
+	<stdio.h>
+
+1536940217 source:/home/dmontalvo/Clases/UNMSM/Ingenieria de Software/2018-2/Algoritmica I/Lab03/Laboratorio03/ejercicios.cpp
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+
+1536913275 /home/dmontalvo/Clases/UNMSM/Ingenieria de Software/2018-2/Algoritmica I/Lab03/Laboratorio03/ejercicios.cpp
+	<iostream>
+	<stdio.h>
+

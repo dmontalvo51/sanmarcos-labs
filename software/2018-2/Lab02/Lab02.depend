@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536338567 source:/home/dmontalvo/Clases/UNMSM/Ingenieria de Sistemas/2018-2/Algoritmica I/Lab02/main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+

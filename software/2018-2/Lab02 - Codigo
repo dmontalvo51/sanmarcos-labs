@@ -1,0 +1,51 @@
+#include <iostream>
+#include <string>
+#include <cstdlib>
+
+using namespace std;
+
+int main()
+{
+    int nroAlumnos = 30;
+    float promedio = 0;
+    int i;
+    srand (time(NULL));
+
+    for(i=0;i<=10;i++){
+        promedio = promedio + rand()%20;
+    }
+
+    i=0;
+    do{
+        promedio = promedio + rand()%20;
+        i++;
+    }while(i<10);
+
+    i=0;
+
+    while (i<=nroAlumnos-20){
+        promedio = promedio + rand()%20;
+        i++;
+    }
+
+    promedio = promedio / nroAlumnos ;
+
+    cout << "Promedio de "<<nroAlumnos<< " alumnos es de "<<promedio<<endl;
+
+    if(promedio > 11){
+        if(promedio > 18){
+            cout<< "El aula tiene un promedio tipo A";
+        }else{
+            if(promedio>15){
+               cout<< "El aula tiene un promedio tipo B";
+            }else{
+               cout<< "El aula tiene un promedio tipo C";
+            }
+        }
+    }else if (promedio > 5){
+        cout << "El aula tiene un promedio D";
+    }else{
+        cout << "El aula tiene un promedio E";
+    }
+
+}
