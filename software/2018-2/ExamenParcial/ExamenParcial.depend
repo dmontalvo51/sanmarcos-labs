@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1539362601 source:/home/dmontalvo/Clases/UNMSM/laboratorios/software/2018-2/ExamenParcial/main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<locale>
+

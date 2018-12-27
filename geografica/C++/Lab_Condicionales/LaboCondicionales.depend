@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1539243980 source:/home/dmontalvo/Clases/UNMSM/laboratorios/geografica/2018-2/Lab_Condicionales/ejercicios.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1539243095 source:/home/dmontalvo/Clases/UNMSM/laboratorios/geografica/2018-2/Lab_Condicionales/main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<iomanip>
+	<locale>
+	<ejercicios.h>
+

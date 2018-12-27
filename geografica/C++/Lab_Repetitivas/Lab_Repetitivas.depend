@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1539212997 source:/home/dmontalvo/Clases/UNMSM/laboratorios/geografica/2018-2/Lab_Repetitivas/main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<iomanip>
+	<locale>
+	<ejercicios.h>
+
+1539722392 source:/home/dmontalvo/Clases/UNMSM/laboratorios/geografica/2018-2/Lab_Repetitivas/ejercicios.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<iomanip>
+	<math.h>
+

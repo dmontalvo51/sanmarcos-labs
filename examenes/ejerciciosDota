@@ -1,0 +1,61 @@
+//TODO PASAR A PRUEBAS UNITARIAS
+
+Tipo Fuerza : 120 puntos de salud adicional y 0.2 puntos de armadura adicional por nivel
+
+AXE
+Tipo : Fuerza
+Salud base : 760
+Armadura base: 1.2
+
+NIvel 10 ataque 20  :   1960 3.2     116.67
+NIvel 5 ataque 10  :   1360  2.2     174.36
+
+
+HUSKAR
+
+Tipo : Fuerza
+Salud base : 672
+Armadura base: 0.4
+  
+NIvel 10 ataque 20  :   1872   2.4     108.84
+NIvel 5 ataque 10  :    1272   1.4     147.91
+
+Tipo Inteligencia : 30 puntos de salud adicional y 0.5 puntos de armadura adicional por nivel
+
+ZEUS
+
+Tipo : Inteligencia
+Salud base : 570
+Armadura base: 1.76
+ 
+NIvel 10 ataque 20  :    870    6.76       65.709969789
+NIvel 5 ataque 10  :     720    4.26      125.43554007	
+
+JAKIRO
+
+Tipo : Inteligencia
+Salud base : 680
+Armadura base: 2.6
+
+NIvel 10 ataque 20  :  980  7.6   79.03
+NIvel 5 ataque 10 :    830 5.1    162.75
+
+Tipo Agilidad : 50 puntos de salud adicional  y 1.2 puntos de armadura adicional por nivel
+
+MIRANA
+
+Tipo : Agilidad
+Salud base : 524
+Armadura base: 2.6
+
+NIvel 10 ataque 20  :  Salud 1024 Arm 14.6    189.63
+NIvel 5 ataque 10  :   Salud 774 Arm 8.6     552.86
+
+VENOMANCER
+
+Tipo : Agilidad
+Salud base : 542    : 
+Armadura base: 5.2
+
+NIvel 10 ataque 20  :    1042   17.2    372.14
+NIvel 5 ataque 10 :      792    11.2      0

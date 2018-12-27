@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1538149964 source:/home/dmontalvo/Clases/UNMSM/laboratorios/software/2018-2/Lab05/Lab05/ejercicios.cpp
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+
+1538149903 source:/home/dmontalvo/Clases/UNMSM/laboratorios/software/2018-2/Lab05/Lab05/main.cpp
+	<iostream>
+	<stdio.h>
+

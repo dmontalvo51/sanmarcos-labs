@@ -1,0 +1,57 @@
+#include <stdlib.h>
+#include <iostream>
+#include <stdio.h>
+#include <math.h>
+
+using namespace std;
+
+int * generarArregloEnteros(int t);
+void  imprimirArreglo(int *,int);
+
+
+void punteros(){
+
+ 
+
+}
+
+void parimpar(){
+   
+}
+
+void punterosArreglos(){
+
+
+}
+
+void funcionesPunteros(){
+
+
+}
+void intercambio(){
+    
+    
+}
+
+
+
+
+int * generarArregloEnteros(int t){
+
+    int *tabla=new int[t];
+
+    for(int i=0;i<t;i++){
+        tabla[i]=rand()%100;
+    }
+
+    return tabla;
+}
+
+void imprimirArreglo(int * arreglo,int t){
+    for(int i=0;i<t;i++){
+        printf("%3d",arreglo[i]);
+    }
+    printf("\n");
+}
+
+

@@ -1,0 +1,67 @@
+#include <stdlib.h>
+#include <iostream>
+#include <stdio.h>
+
+#include <cstdlib>
+#include <ctime>
+
+using namespace std;
+
+void arreglos(){
+    cout<<"Ejemplo de Arreglos"<<endl<<endl;
+
+
+}
+
+void cadenas(){
+
+
+}
+
+
+void tablaMultiplicar(){
+    int n;
+    printf("Ingrese numero de la tabla :"); cin>>n;
+   
+
+}
+
+
+void promedioMaxMin(){
+    srand(time(NULL));
+    int n;
+    printf("Ingrese tamaño de arreglo (MAX 1000) :"); cin>>n;
+   
+
+
+}
+
+void subcadena(){
+    char cadena[100];
+    int a,b;
+    cout<<"Ingrese cadena :"; cin<<cadena;
+    cout<<"Ingrese a: "; cin>>a;
+    cout<<"Ingrese b: "; cin>>b;
+
+
+}
+
+void sumacadenas(){
+
+    char cadA[100];
+    char cadB[100];
+
+    cout<<"Ingrese cadena A:"; cin.get<<cadA;
+    cout<<"Ingrese cadena B:"; cin.get<<cadB;
+
+}
+
+void burbuja(){
+    srand(time(NULL));
+    int n;
+    printf("Ingrese tamaño de arreglo (MAX 1000) :"); cin>>n;
+
+
+    printf("Arreglo ordenado");
+
+}

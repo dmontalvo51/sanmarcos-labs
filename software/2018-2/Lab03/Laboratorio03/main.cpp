@@ -1,6 +1,5 @@
 #include <iostream>
 #include <stdio.h>
-//#include "ejercicios.cpp"
 
 using namespace std;
 
